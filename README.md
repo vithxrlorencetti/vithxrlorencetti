@@ -1,9 +1,13 @@
 ### Hi, i'm Vithor 👋
 
 - 🔭 I’m currently working on Ferro Velho Digital
-- 🌱 I’m currently learning SpringBoot - Vue.js
+- 
+- 🌱 I’m currently focusing on learning SpringBoot - Vue.js
+- 
 - 💬 Ask me about Java, SpringBoot
+- 
 - 📫 How to reach me: vithorlorencetti@gmail.com
+- 
 - 😄 Pronouns: he/him
 
 
