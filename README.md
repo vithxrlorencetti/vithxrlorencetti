@@ -10,6 +10,7 @@
 
 - 😄 Pronouns: he/him
 
+<br>
 
 <div align="center">
   <a href="https://github.com/vithxrlorencetti">
@@ -34,6 +35,7 @@
     <img align="center" alt="Vue Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
   
+<br><br>
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
