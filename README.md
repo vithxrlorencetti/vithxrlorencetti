@@ -1,6 +1,6 @@
 ### Hi, i'm Vithor 👋
 
-- 🔭 I’m currently working on Ferro Velho Digital
+- 🔭 I’m currently working on SOFT-TI Informática
 
 - 🌱 I’m currently focusing on learning SpringBoot - Vue.js
 
