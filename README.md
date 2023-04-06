@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on SOFT-TI Informática
 
-- 🌱 I’m currently focusing on learning SpringBoot - Vue.js
+- 🌱 I’m currently focusing on learning C# - Angular
 
 - 📫 How to reach me: vithorlorencetti@gmail.com
 
