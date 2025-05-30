@@ -1,6 +1,6 @@
 ### Hi, i'm Vithor 👋
 
-- 🔭 I’m currently working on SOFT-TI Informática as <strong>Trainee Full-Stack Developer</strong>
+- 🔭 I’m currently working on Intelltech as <strong>Trainee Full-Stack Developer</strong>
 
 - 🌱 I’m currently focusing on learning C# - Angular
 
